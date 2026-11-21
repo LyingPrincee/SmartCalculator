@@ -1,24 +1,31 @@
+![Smart Calculator] (images/ad0da7b1de11b2b16343c716a34d840c.jpg)
 # Smart Calculator 
 
-Мой первый проект на языке Python.
+My first educational project written in Python.
 
-## Описание
-Консольный калькулятор для выполнения
-основных математических операций.
+## Description
 
-## Возможности
-- Сложение
-- Вычитание
-- Умножение
-- Деление
-- Проверка деления на ноль
-- Проверка правильности выбора операции
+A simple console calculator that performs basic mathematical operations.
 
-## Технологии
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Division by zero protection
+- Input validation
+
+## Technologies
+
 - Python
 
-## Запуск
-Откройте файл SmartCalculator.ру и запустите программу.
+## How to Run
 
-## Автор
-Начинающий Python-разработчик.
+1. Download or clone this repository.
+2. Open `SmartCalculator.py`.
+3. Run the program using Python.
+
+## Author
+
+Beginner Python Developer.
