@@ -1,4 +1,7 @@
-![Smart Calculator] (banner.jpg)
+<p align="center">
+  <img src="./banner.jpg" alt="Smart Calculator" width="100%">
+</p>
+
 # Smart Calculator 
 
 My first educational project written in Python.
