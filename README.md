@@ -1,4 +1,4 @@
-![Smart Calculator] (ad0da7b1de11b2b16343c716a34d840c.jpg)
+![Smart Calculator] (banner.jpg)
 # Smart Calculator 
 
 My first educational project written in Python.
